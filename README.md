@@ -13,7 +13,7 @@ Insertion-Sort Bitirme Projesi
 
 5-[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
-#1-Aşamalar:
+# 1-Aşamalar:
 
 (n) [22,27,16,2,18,6]
 
@@ -29,7 +29,7 @@ Insertion-Sort Bitirme Projesi
 
 (n-6) [2,6,16,18,22,27] Aslında 3. aşamada bitmesine karşın bunu bilemeyeceğimiz için devam ettirdik.
 
-#2-Big O Gösterimi:
+# 2-Big O Gösterimi:
 
 Worst Case: O(n²) = n*(n+1)/2=>n^2 baskın sonuç
 
@@ -37,7 +37,7 @@ Average Case: O(n²)
 
 Best Case: O(n)
 
-#3-Time Complexity:
+# 3-Time Complexity:
 
 Worst Case:[27,22,18,16,6,2]
 
@@ -45,11 +45,11 @@ Best Case:[2,6,16,18,22,27]
 
 Average Case:[18,22,27,2,6,16]
 
-#4-"18" Sayısının Durumu:
+# 4-"18" Sayısının Durumu:
 
 Tam olarak ortada bulunur.
 
-#5-Sıralama:
+# 5-Sıralama:
 
 0-[7,3,5,8,2,9,4,15,6]
 
